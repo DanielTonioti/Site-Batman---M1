@@ -1,0 +1,12 @@
+body{
+    background-color:#D3AF37;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    background-image: url("assets/4.jpg");
+}
+    img{
+        width: 900px;
+        height: 600px;
+        border-radius: 25px;
+    }
